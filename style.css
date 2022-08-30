@@ -1,0 +1,18 @@
+.guessList {
+    display: flex;
+    flex-direction: row;
+}
+
+.guessBox {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.resetLink {
+    text-decoration: none;
+}
